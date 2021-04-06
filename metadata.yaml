@@ -1,11 +1,16 @@
 _repo: Clara-Barton-a-Centenary-Tribute_64967
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64967-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Charles Sumner
     gutenberg_agent_id: '53118'
     url: http://www.gutenberg.org/2009/agents/53118
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64967#Clara-Barton-a-Centenary-Tribute
 gutenberg_issued: '2021-03-30'
 gutenberg_type: Text
 identifiers:
